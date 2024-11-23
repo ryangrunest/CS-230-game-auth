@@ -1,0 +1,11 @@
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameUser.java
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/dao/GameUserDB.java
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/controller/RESTClientController.java
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/GameAuthConfiguration.java
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/GameAuthApplication.java
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameAuthenticator.java
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/healthcheck/AppHealthCheck.java
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/controller/GameUserRESTController.java
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameAuthorizer.java
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/representations/GameUserInfo.java
+/Users/ryangrunest/developer/CS-230/gameauth/src/main/java/com/gamingroom/gameauth/healthcheck/HealthCheckController.java
